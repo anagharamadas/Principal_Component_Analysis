@@ -4,11 +4,11 @@ This project focuses on analyzing a numerical dataset related to Spanish wines, 
 
 ### Project Overview
 
-Objective: To preprocess the dataset, apply PCA for dimensionality reduction, and analyze the transformed data to extract actionable insights.
+- **Objective:** To preprocess the dataset, apply PCA for dimensionality reduction, and analyze the transformed data to extract actionable insights.
 
-Dataset: Numerical data related to Spanish wines.
+- **Dataset:** Numerical data related to Spanish wines.
 
-Key Techniques: Data cleaning, preprocessing, PCA, and visualization.
+- **Key Techniques:** Data cleaning, preprocessing, PCA, and visualization.
 
 ### Key Highlights
 
